@@ -51,30 +51,29 @@ Users can optionally track their medication history, gaining insights into **adh
 
 ### Launch & Onboarding
 <p align="center">
-  <img src="./images/launchscreen.jpeg" width="230" />
-  <img src="./images/getstarted.jpeg" width="230" />
-  <img src="./images/landingpage.jpeg" width="230" />
+  <img src="./images/launchscreen.jpeg" height="400" />
+  <img src="./images/getstarted.jpeg" height="400" />
 </p>
 
 ### Authentication Flow
 <p align="center">
-  <img src="./images/login.jpeg" width="230" />
-  <img src="./images/register.jpeg" width="230" />
-  <img src="./images/forgotpass.jpeg" width="230" />
+  <img src="./images/login.jpeg" height="400" />
+  <img src="./images/register.jpeg" height="400" />
+  <img src="./images/forgotpass.jpeg" height="400" />
 </p>
 
 ### Main Application
 <p align="center">
-  <img src="./images/medicationcabinet.jpeg" width="230" />
-  <img src="./images/medicationdescription.jpeg" width="230" />
-  <img src="./images/medicationreminder.jpeg" width="230" />
+  <img src="./images/medicationcabinet.jpeg" height="400" />
+  <img src="./images/medicationdescription.jpeg" height="400" />
+  <img src="./images/medicationreminder.jpeg" height="400" />
 </p>
 
 ### Profile & Analytics
 <p align="center">
-  <img src="./images/profile.jpeg" width="230" />
-  <img src="./images/editprofile.jpeg" width="230" />
-  <img src="./images/analytics.jpeg" width="230" />
+  <img src="./images/profile.jpeg" height="400" />
+  <img src="./images/editprofile.jpeg" height="400" />
+  <img src="./images/analytics.jpeg" height="400" />
 </p>
 
 ---
