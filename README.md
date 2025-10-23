@@ -47,6 +47,38 @@ Users can optionally track their medication history, gaining insights into **adh
 
 ---
 
+## App Screens
+
+### Launch & Onboarding
+<p align="center">
+  <img src="./images/launchscreen.jpeg" width="230" />
+  <img src="./images/getstarted.jpeg" width="230" />
+  <img src="./images/landingpage.jpeg" width="230" />
+</p>
+
+### Authentication Flow
+<p align="center">
+  <img src="./images/login.jpeg" width="230" />
+  <img src="./images/register.jpeg" width="230" />
+  <img src="./images/forgotpass.jpeg" width="230" />
+</p>
+
+### Main Application
+<p align="center">
+  <img src="./images/medicationcabinet.jpeg" width="230" />
+  <img src="./images/medicationdescription.jpeg" width="230" />
+  <img src="./images/medicationreminder.jpeg" width="230" />
+</p>
+
+### Profile & Analytics
+<p align="center">
+  <img src="./images/profile.jpeg" width="230" />
+  <img src="./images/editprofile.jpeg" width="230" />
+  <img src="./images/analytics.jpeg" width="230" />
+</p>
+
+---
+
 ## Future Enhancements
 
 Planned updates for Remedi include:
@@ -68,5 +100,5 @@ Planned updates for Remedi include:
 
 ## System Architecture
 
-> *(Optional diagram — showing data flow between FlutterFlow frontend, Firebase backend, and notification services.)*
+> *(Simplified representation of data flow between app components.)*
 
